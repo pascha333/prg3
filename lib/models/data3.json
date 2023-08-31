@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Paschanok Meelak",
+      "email": "p@test.com",
+      "password": "123qwe",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "fullname": "aaaxxxx",
+      "email": "aaa@a.com",
+      "password": "aaaa",
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "fullname": "xxxxx",
+      "email": "xx@xmail.com",
+      "password": "qqqq",
+      "gender": "female"
+    }
+  ]
+}
